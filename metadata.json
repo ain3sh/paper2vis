@@ -1,0 +1,5 @@
+{
+  "name": "Technical Content Visualizer",
+  "description": "Upload a research paper or technical PDF and generate an interactive 3D visualization of its concepts using Gemini and Three.js.",
+  "requestFramePermissions": []
+}
